@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **C and Dsa**
 
+- 💬 IDE-Dev-c++
+
 - 📫 How to reach me **sonukumar133d@gmail.com**
 
 - ⚡ Fun fact **I,Believe in logical and Analytical thinking **
