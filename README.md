@@ -62,8 +62,11 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://www.instagram.com/YOUR_INSTAGRAM)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SonuKumar267-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonukumar267/)
+[![Instagram](https://img.shields.io/badge/Instagram-animators.th-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/animators.th/)
+
 
 ---
 
