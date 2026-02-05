@@ -27,14 +27,21 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
 
 ---
+
 
 ## ⚙️ Tools
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+
 
 ---
 
@@ -48,8 +55,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu267&show_icons=true&theme=transparent)
+
 
 ---
 
