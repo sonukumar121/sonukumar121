@@ -53,10 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu267&show_icons=true&theme=transparent)
-
 
 ---
 
@@ -71,3 +67,15 @@
 ---
 
 > *Strong fundamentals. Daily practice. Long-term growth.*
+
+# 🚀 My Frontend Projects
+
+| Project Name        | Description                                | Link                                    |
+|--------------------|--------------------------------------------|----------------------------------------|
+| ☕ Coffee Shop       | Simple frontend coffee ordering app        | [🔗 View Project](https://coffee-7pf9.onrender.com) |
+| 🔐 Login System      | Frontend user login/authentication UI     | [🔗 View Project](https://login-p267.onrender.com/) |
+| ✅ To-Do List        | Frontend task manager app                 | [🔗 View Project](https://to-do-list-267.onrender.com/) |
+| 🧮 Calculator        | Basic frontend calculator                  | [🔗 View Project](https://calculator-267.onrender.com/) |
+| 🎮 Tic-Tac-Toe Game  | Frontend classic Tic-Tac-Toe game         | [🔗 View Project](https://tic-toe-games-267.onrender.com/) |
+| 🛒 Swazzel E-commerce | Frontend-only e-commerce website         | [🔗 View Project](https://swazzel-llp.netlify.app/) |
+
