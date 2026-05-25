@@ -68,7 +68,7 @@
 
 > *Strong fundamentals. Daily practice. Long-term growth.*
 
-# 🚀 My Frontend Projects
+# 🚀 My Projects 🔥 
 
 | Project Name        | Description                                | Link                                    |
 |--------------------|--------------------------------------------|----------------------------------------|
