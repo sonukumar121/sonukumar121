@@ -78,5 +78,5 @@
 | 🧮 Calculator        | Basic frontend calculator                  | [🔗 View Project](https://calculator-267.onrender.com/) |
 | 🎮 Tic-Tac-Toe Game  | Frontend classic Tic-Tac-Toe game         | [🔗 View Project](https://tic-toe-games-267.onrender.com/) |
 | 🛒 Swazzel E-commerce | Frontend-only e-commerce website         | [🔗 View Project](https://swazzel-llp.netlify.app/) |
-| 🚀 Animator Tasks | Full-stack task management app with X | [🔗 View Project](https://login-auth-b2682.web.app/) |
+| 🚀 Tasks  | Full-stack task management app with X | [🔗 View Project](https://login-auth-b2682.web.app/) |
 
