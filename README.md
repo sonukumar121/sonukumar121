@@ -61,7 +61,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SonuKumar267-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonukumar267/)
-[![Instagram](https://img.shields.io/badge/Instagram-animators.th-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/animators.th/)
+[![Instagram](https://img.shields.io/badge/Instagram-animators.th-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/animatordev/)
 
 
 ---
