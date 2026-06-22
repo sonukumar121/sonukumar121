@@ -80,4 +80,5 @@
 | 🛒 Swazzel E-commerce | Frontend-only e-commerce website         | [🔗 View Project](https://swazzel-llp.netlify.app/) |
 | 🚀 Tasks  | Full-stack task management app with X | [🔗 View Project](https://login-auth-b2682.web.app/) |
 | 📝 Notes App (MERN)  | Full-stack Notes App| [🔗 View Project](https://notesappx.onrender.com/)|
+| 💰 Expense Tracker (MERN) | Full-stack Expense Tracker with authentication, income/expense tracking, category filters, date-wise filtering, and search functionality | [🔗 View Project](https://expense-tracker-zwsb.onrender.com/) |
 
