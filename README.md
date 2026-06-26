@@ -12,7 +12,6 @@
 
 ## 👨‍💻 About Me
 - Strong foundation in **C & C++**
-- Frontend development using **HTML, CSS, JavaScript ,ReactsJs**
 - Learning **Full_Stack Development**
 - Active **Competitive Programmer**
 - Interested in clean code & problem solving
